@@ -1,0 +1,61 @@
+<mxfile host="app.diagrams.net" modified="2023-05-14T15:54:33.198Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="tZUOyb6aevse0qmoQcjn" version="21.2.9" type="device">
+  <diagram name="Page-1" id="UugIYuCNp8Prc57nhOZp">
+    <mxGraphModel dx="1434" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mV2WFo4tBaU-brwTZoQB-1" value="Contacts" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="120" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mV2WFo4tBaU-brwTZoQB-3" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp;-numbers: char&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp;-signs: char&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="40" y="160" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mV2WFo4tBaU-brwTZoQB-4" value="DOMAIN" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="10" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mV2WFo4tBaU-brwTZoQB-7" value="MOBILE PHONE" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="50" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mV2WFo4tBaU-brwTZoQB-8" value="&amp;nbsp; &amp;nbsp;+add: void&lt;br&gt;&amp;nbsp; &amp;nbsp;+subtract: void&lt;br&gt;&amp;nbsp; &amp;nbsp;+divide: void&lt;br&gt;&amp;nbsp; &amp;nbsp;+multiply: void" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="40" y="200" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mV2WFo4tBaU-brwTZoQB-9" value="&amp;nbsp; &amp;nbsp;+saveContact: void&lt;br&gt;&amp;nbsp; &amp;nbsp;+editContact: void" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="310" y="190" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mV2WFo4tBaU-brwTZoQB-10" value="&amp;nbsp; &amp;nbsp;+sendMessage: void&lt;br&gt;&amp;nbsp; &amp;nbsp;+receiveMessage: void" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="620" y="200" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mV2WFo4tBaU-brwTZoQB-11" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp;-name: string&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp;-phoneNumber: string&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="310" y="160" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mV2WFo4tBaU-brwTZoQB-12" value="Calculator" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="120" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mV2WFo4tBaU-brwTZoQB-13" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp;-inbox: string&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp;-outbox: string&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="620" y="160" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mV2WFo4tBaU-brwTZoQB-14" value="Messages" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="120" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mV2WFo4tBaU-brwTZoQB-15" value="Dialer" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="360" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mV2WFo4tBaU-brwTZoQB-17" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp;-numbers: string&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp;-signs: string&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="320" y="400" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mV2WFo4tBaU-brwTZoQB-18" value="&amp;nbsp; &amp;nbsp;+call: void&lt;br&gt;&amp;nbsp; &amp;nbsp;+receiveCall: void" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="320" y="440" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mV2WFo4tBaU-brwTZoQB-19" value="&amp;nbsp; &amp;nbsp;+setAlarm: void&lt;br&gt;&amp;nbsp; &amp;nbsp;+setTime: void&lt;br&gt;&amp;nbsp; &amp;nbsp;+startStopwatch" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="620" y="450" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="mV2WFo4tBaU-brwTZoQB-20" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp;-time: string&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp;-stopwatch: string&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp;-alarm: string&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="620" y="400" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mV2WFo4tBaU-brwTZoQB-21" value="Alarm" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="360" width="180" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
